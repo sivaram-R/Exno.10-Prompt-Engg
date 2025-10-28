@@ -404,5 +404,3 @@ By applying structured methods like **query decomposition, semantic filtering, a
 The corresponding prompts were successfully executed.  
 Various content types—reports, articles, case studies, and comics—were generated using advanced prompt engineering methods, demonstrating how **prompt structure directly influences content quality and coherence**.
 
-
-Would you like me to generate this as a downloadable `.md` file (GitHub-ready)? I can export it instantly for upload.
